@@ -14,8 +14,9 @@ import ManageView from './pages/ManageView';
 
 // Import styles
 import './styles.css';
-import { useToast } from './hooks/UseToast';
-import { articlesAPI } from './services/Api';
+import { useToast } from './hooks/useToast';
+import { articlesAPI } from './services/api';
+// import { useToast } from './hooks/UseToast';
 
 /**
  * Main App Content Component
